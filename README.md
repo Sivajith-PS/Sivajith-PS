@@ -15,9 +15,3 @@ I’m Sivajith P S, an aspiring Machine Learning Engineer and LLM Developer. Wit
 
 </details>
 <br>
-
----
-
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
-
-<br>
