@@ -10,6 +10,7 @@ I’m Sivajith P S, an aspiring Machine Learning Engineer and LLM Developer. Wit
 - **Name**: Sivajith
 - **From**: Kerala,India
 - **Aspiring ML Engineer** | **LLM Developer** | **AI Enthusiast**
+- **Education**: BS in Data Science & Applications, IIT Madras
 - Continuously improving my knowledge of **Machine Learning**, **Large Language Models**, and **AI development skills**.
 - I’m currently learning and exploring **Machine Learning algorithms**, **Large Language Models**, and **AI model development techniques**.
 
