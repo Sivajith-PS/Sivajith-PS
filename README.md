@@ -1,6 +1,6 @@
 ## Hi there !!
 
-I’m Sivajith P S, a student passionate about Machine Learning and Large Language Models. I’m learning, building, and experimenting with AI systems, with the goal of becoming an ML Engineer and LLM Developer. I aim to learn deeply, create impactful projects, and contribute to the future of artificial intelligence.
+I’m Sivajith P S, a student passionate about Machine Learning and Large Language Models. I’m learning, building, and experimenting with AI systems, with the goal of becoming an ML Engineer and LLM Developer. My aim is to learn deeply, create impactful projects, and contribute to the future of artificial intelligence.
 
 <a href="https://www.linkedin.com/in/sivajith-ps-aa6152364"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
